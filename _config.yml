@@ -11,8 +11,8 @@ pygments: true
 title : Treadstone Project
 tagline: Site Tagline
 author :
-  name : Chatsiri Rattana
-  email : insiderboy-at-gmail-dot-com
+  name : Reverse Fall Team
+  email : treadstone@treadston.io
   github : chatsiri
   twitter : rchatsiri
 
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : ''
     getclicky :
       site_id : 
     mixpanel :
