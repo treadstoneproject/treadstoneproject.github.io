@@ -9,12 +9,12 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Treadstone Project
-tagline: Site Tagline
+tagline: Malware Analysis Tools.
 author :
   name : Reverse Fall Team
-  email : treadstone@treadston.io
-  github : chatsiri
-  twitter : rchatsiri
+  email : treadstone@treadstone.io
+  github : treadstoneproject.github.com
+  twitter : treadstoneproject
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -24,7 +24,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://treadstoneproject.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -81,16 +81,16 @@ JB :
   comments :
     provider : disqus
     disqus : 
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 
-    intensedebate :
-      account :
-    facebook :
-      appid : 
-      num_posts: 
-      width: 
-      colorscheme: light
+      short_name : treadstoneproject
+#    livefyre :
+#      site_id : 
+#    intensedebate :
+#      account :
+#    facebook :
+#      appid : 
+#      num_posts: 
+#      width: 
+#      colorscheme: light
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
