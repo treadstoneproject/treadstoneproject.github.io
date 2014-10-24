@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Treadstone Project
-description: Treadstone Project
+title: Treadstone Project.
+description: Treadstone Project, Malware Analysis malware tools.
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
