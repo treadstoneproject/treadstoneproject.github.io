@@ -1,36 +1,25 @@
 ---
 layout: page
-title: Hello World!
+title: Treadstone Project
+description: Treadstone Project
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## Abstract
 
-## Update Author Attributes
+Computer Virus is one of the major security concerns for many enterprises that heavily used personal computer. Virus scanning software becomes an important tool that allows users to detect computer virus threat early. This work presents the parallelization techniques that enable the malware detected engine, which used Aho-Corasick algorithm, to run on multi-core computer more efficiently. This technique is very useful in enhancing the performance of a computer virus scanning process. The concept can also be applied to various anti-virus software.
 
-In `_config.yml` remember to specify your own data:
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+## Architecture
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+1) [Malware static scan engine, Code Name : Hanuman](#)
+2) [Device sandbox monitoring process for financial software](#)
+3) [Tracethreat tracing malware tools for presenting statistic infected file in system.](#)
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+## Blog post status
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +27,7 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
+## Based on the paper techniques.
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
+* [Applying Parallelization Techniques to Speedup ClamAV Anti-Virus.](https://www.researchgate.net/publication/262820325_Applying_Parallelization_Techniques_to_Speedup_ClamAV_Anti-Virus)
 
