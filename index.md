@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Treadstone Project.
-description: Treadstone Project, Malware Analysis malware tools.
+title: "Treadstone Project."
+description: "Treadstone Project, Malware Analysis malware tools."
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -14,7 +14,7 @@ Computer Virus is one of the major security concerns for many enterprises that h
     
 ## Architecture
 
-* [Malware static scan engine, Code Name : Hanuman](#)
+* [Malware static scan engine](#)(Code name Hanuman)
 * [Device sandbox](#) monitoring process for financial software.
 * [Tracethreat](#) tracing malware tools for presenting statistic infected file in system.
 
