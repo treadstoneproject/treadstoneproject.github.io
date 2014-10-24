@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Treadstone Project."
+title: "Treadstone Project."[ภาษาไทย](#)
 description: "Treadstone Project, Malware Analysis malware tools."
 tagline: Supporting tagline
 ---
