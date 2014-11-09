@@ -31,3 +31,7 @@ Computer Virus is one of the major security concerns for many enterprises that h
 
 * [Applying Parallelization Techniques to Speedup ClamAV Anti-Virus.](https://www.researchgate.net/publication/262820325_Applying_Parallelization_Techniques_to_Speedup_ClamAV_Anti-Virus)
 
+## Discliamer
+
+Hanuman Malware Analysis tools(HNM Tools) is a research prototype and is provided “as is” without warranty or support of any kind, whether expressed or implied. The creators of HNM Tools make no guarantee and hold no responsibility for any damage, injury, loss of property, loss of data, loss of any and all resources, or any negative influence what-so-ever that may result from any and all use of HNM Tools and associated materials. This includes but is not limited to the downloadable software and documentation available from this website. Negative consequences of your usage of HNM Tools and any associated materials are solely your problem and your responsibility.
+HNM Tools are open source software for non-commercial and academic use under the Apache Licence 2.0. Commercial use is in general prohibited and requires a commercial license. For a commercial license please contact us at treadstone-at-treadstoneproject-dot-io
