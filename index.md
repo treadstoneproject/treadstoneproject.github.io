@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Treadstone Project."
-description: "Treadstone Project, Malware Analysis malware tools."
+description: "Treadstone Project, -Protect File System Reliability."
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -9,14 +9,13 @@ tagline: Supporting tagline
 
 ## Abstract
 
-Computer Virus is one of the major security concerns for many enterprises that heavily used personal computer. Virus scanning software becomes an important tool that allows users to detect computer virus threat early. This work presents the parallelization techniques that enable the malware detected engine, which used Aho-Corasick algorithm, to run on multi-core computer more efficiently. This technique is very useful in enhancing the performance of a computer virus scanning process. The concept can also be applied to various anti-virus software.
-
+ After surveillance and collect data post-era with malware tools. Almost defendted tools install on computer immunity detect and scan malicious software install some a part of execution or binary file. I'm finding best way share signature and behaviour information of infected files among distributed  layers nodes run sandbox daemon.  Project focus on both static and dynamic analytics infected file run processes on Operating System. Sandbox daemon processes in implementing phase for support Distributed Firewall for VM-lite on cloud instance and bare-metal server. Any updated on posts mean project near final or finish implemented phase.
 
 ## Architecture
 
-* [Tracethreat-MAT](https://github.com/treadstoneproject/tracethreat-mat)(Code name Hanuman)
-* [Device sandbox](#) monitoring process for financial software.
-* [TracethreatWeb](#) tracing malware tools for presenting statistic infected file in system.
+* [Tracethreat-MAT](#)
+* [Tracethreat-ML](#)
+* [Tracethreat-FWDIST](#)
 
 
 ## Blog post status
@@ -33,6 +32,6 @@ Computer Virus is one of the major security concerns for many enterprises that h
 
 ## Disclaimer
 
-Tracethreat-MAT(TT-MAT) is a research prototype and is provided “as is” without warranty or support of any kind, whether expressed or implied. The creators of TT-MAT Tools make no guarantee and hold no responsibility for any damage, injury, loss of property, loss of data, loss of any and all resources, or any negative influence what-so-ever that may result from any and all use of TT-MAT Tools and associated materials.
+Tracethreat Suite is a research prototype and is provided “as is” without warranty or support of any kind, whether expressed or implied. The creators of TT-MAT Tools make no guarantee and hold no responsibility for any damage, injury, loss of property, loss of data, loss of any and all resources, or any negative influence what-so-ever that may result from any and all use of TT-MAT Tools and associated materials.
 
-TT-MAT Tools are open source software for non-commercial and academic use under the Apache Licence 2.0. Commercial use is in general prohibited and requires a commercial license. For a commercial license please contact us at chatsiri-at-tracethreat-dot-systems
+This disclaimer informs readers that the views, thoughts, and opinions expressed in the text belong solely to the author, and not necessarily to the author’s employer, organization, committee or other group or individual.
