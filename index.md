@@ -9,7 +9,7 @@ tagline: Supporting tagline
 
 ## Abstract
 
- After surveillance and collect data post-era with malware tools. Almost defendted tools install on computer immunity detect and scan malicious software install some a part of execution or binary file. I'm finding best way share signature and behaviour information of infected files among distributed  layers nodes run sandbox daemon.  Project focus on both static and dynamic analytics infected file run processes on Operating System. Sandbox daemon processes in implementing phase for support Distributed Firewall for VM-lite on cloud instance and bare-metal server. Any updated on posts mean project near final or finish implemented phase.
+After surveillance and collect data post-era with malware tools. Almost defended tools install on computer immunity detect and scan malicious software install some a part of execution or binary file. I’m finding the best way to share signature and behavior information of infected files among distributed layers nodes run sandbox daemon. Project focus on both static and dynamic analytics infected file run processes on the Operating System. Sandbox daemon processes in implementing phase for support Distributed Firewall for VM-lite on cloud instance and bare-metal server. Any updated on posts mean project near final or finish implemented phase.
 
 ## Architecture
 
