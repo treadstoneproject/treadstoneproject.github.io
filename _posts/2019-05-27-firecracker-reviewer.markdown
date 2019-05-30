@@ -7,7 +7,15 @@ categories: [fireworkmes]
 
 Firecracker run on KVM environment. After system run bacis command line for [KVM-installing][kvm-installing] had finished. System base must enabled VT-x/AMD-V on the bios before run KVM. Now focusing on firecracker engine built-in on container such docker engine use [Runc merge into the Containerd][compare-containerd-with-runc]. See from the Firecracker project have more feature than run on pure KVM. Firecracker-containerd able to use fireacker engine run on docker container.
 
-![Top-down architecture KVM run on Hyper-V](images/IMG_20190528_122912.jpg){:class="img-responsive"}""})]
+
+<!-- {% responsive_image path: assets/images/IMG_20190528_122912.jpg  template: _includes/responsive-image.html %} -->
+<p>
+<picture>
+	<source media="(min-width: 530px)" srcset="/assets/images/resized/530/IMG_20190528_122912.jpg" style="margin-left: 50px;">
+        <img src="/assets/images/IMG_20190528_122912.jpg">
+
+</picture>
+</p>
 
 For interesting acticle supports the Cloud developer.
 

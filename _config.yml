@@ -29,7 +29,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-responsive-image
     # Exclude from processing.
     # The following items will not be processed, by default. Create a custom list
     # to override the default setting.
@@ -41,3 +41,17 @@ plugins:
     #   - vendor/cache/
     #   - vendor/gems/
     #   - vendor/ruby/
+
+responsive_image:
+  template: _includes/responsive-image.html
+  default_quality: 90
+  sizes:
+                 - width: 20 # lq
+                   quality: 10
+                 - width: 530  # [Required] How wide the resized image will be.
+                   quality: 80 # [Optional] Overrides default_quality for this size.
+  base_path: assets/images
+  save_to_source: false
+  output_path_format: assets/images/resized/%{width}/%{basename}
+  cache: false
+
