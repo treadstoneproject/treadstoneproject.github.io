@@ -9,13 +9,15 @@ Firecracker run on KVM environment. After system run bacis command line for [KVM
 
 
 <!-- {% responsive_image path: assets/images/IMG_20190528_122912.jpg  template: _includes/responsive-image.html %} -->
-<p>
+<!-- >
 <picture>
 	<source media="(min-width: 530px)" srcset="/assets/images/resized/530/IMG_20190528_122912.jpg" style="margin-left: 50px;">
         <img src="https://treadstoneproject.github.io/assets/images/IMG_20190528_122912.jpg">
 
 </picture>
-</p>
+</p -->
+
+<img src="{{site.url}}/images/IMG_20190528_122912.jpg" style="display: block;margin-left: 50px;" />
 
 For interesting acticle supports the Cloud developer.
 
