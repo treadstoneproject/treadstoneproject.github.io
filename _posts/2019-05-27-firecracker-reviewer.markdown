@@ -11,7 +11,7 @@ Firecracker run on KVM environment. After system run bacis command line for [KVM
 <p>
 <picture>
 	<source media="(min-width: 530px)" srcset="/assets/images/resized/530/IMG_20190528_122912.jpg" style="margin-left: 50px;">
-        <img src="/assets/images/IMG_20190528_122912.jpg">
+        <img src="../../../../assets/images/IMG_20190528_122912.jpg" style="margin-left: 50px;">
 
 </picture>
 </p>
