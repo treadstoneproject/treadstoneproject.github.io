@@ -30,6 +30,16 @@ body {
 /* Hack via Joel Spolsky to make image rescaling nicer in IE */
 img { -ms-interpolation-mode:bicubic; }
 
+
+img.img-resize {
+
+ width: 100%;
+ height: auto;
+ position: relative;
+
+}
+
+
 /* IE6 ignores this and uses default size of 16pt */
 html>body { font-size:16px; }
 p { margin: 0 0 1.5em 0; text-align: justify; }
