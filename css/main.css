@@ -181,3 +181,8 @@ a:visited { color: #a0a; }
 	opacity: 1;
 }
 
+.img-resize {
+ width: 100%;
+ height: auto;
+ position: relative;
+}
