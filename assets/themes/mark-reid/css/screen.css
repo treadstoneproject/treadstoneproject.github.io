@@ -569,3 +569,8 @@ img.maruku-png { }
 	opacity: 1;
 }
 
+.img-resize {
+ width: 100%;
+ height: auto;
+ position: relative;
+}
