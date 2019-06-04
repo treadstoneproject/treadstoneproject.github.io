@@ -28,9 +28,9 @@ body {
 }
 
 /* Hack via Joel Spolsky to make image rescaling nicer in IE */
-.img { -ms-interpolation-mode:bicubic; }
+img { -ms-interpolation-mode:bicubic; }
 
-.img .img-resize {
+img.img-resize {
 
  width: 100%;
  height: auto;
